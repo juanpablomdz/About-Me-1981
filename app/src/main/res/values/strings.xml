@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Juan Mendez</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio" >Hola mi nombre es juan pablo.
+        Soy desarrollador android hace mas de 4 años y full stack .net hace 1 año.
+  Desarrollo de aplicaciones con C# .NET framework y .NET
+core, declarando y diferenciando variables, constantes y
+estructuras, codificando pequeños programas que apuntan a
+lógica de sistemas reales, depuración de código: breakpoints y
+visor de variables y expresiones.
+Desarrollo código con los conceptos de orientación a objetos.
+Creo páginas con webform y controles simples, aplicando
+estilos básicos y sencillos con CSS/Bootstrap.
+Desarrollo aplicaciones en capas con proyectos web y librerías
+de clases personalizadas y ado.net clásico, acceso a datos básico
+con Entity Framework y Linq.
+Publicar y distribuir aplicaciones .Net.
+Desarrollo de MVC 5 web application.
+   Desarrollo de apps nativas en android studio con java, kotlin y
+flutter, creando todo tipo de aplicaciones para google play.
+Programar creando y manipulando fragmentos, realizar tareas
+asincrónicas, consumir servicios REST, utilizar los
+componentes principales de android, Enviar y recibir Push
+Notification a los usuarios y a un público específico.
+Aplicar Material Design a aplicaciones Android .Utilizar los
+componentes de Material Design. Crear aplicaciones 100 %
+funcionales. Aplicar animaciones a distintos tipos de vistas.
+ </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
